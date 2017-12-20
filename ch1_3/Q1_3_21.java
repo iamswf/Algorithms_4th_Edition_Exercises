@@ -1,6 +1,6 @@
 /**
  * @file 查找链表是否含有字符串key
- * @author Sun Wenfei(sunwenfei@baidu.com)
+ * @author iamswf@163.com
  * @date 2016-12-28
  */
 

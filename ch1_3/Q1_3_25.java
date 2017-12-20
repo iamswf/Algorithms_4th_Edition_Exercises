@@ -1,6 +1,6 @@
 /**
  * @file insertAfter()
- * @author Sun Wenfei(sunwenfei@baidu.com)
+ * @author iamswf@163.com
  * @date 2016-12-29
  */
 

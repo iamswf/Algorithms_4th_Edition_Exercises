@@ -1,6 +1,6 @@
 /**
  * @file 删除链表尾节点，设首节点为first
- * @author Sun Wenfei(sunwenfei@baidu.com)
+ * @author iamswf@163.com
  * @date 2016-12-07
  */
 import edu.princeton.cs.algs4.StdOut;

@@ -1,6 +1,6 @@
 /**
  * @file 如果存在，删除链表第k个元素
- * @author Sun Wenfei(sunwenfei@baidu.com)
+ * @author iamswf@163.com
  * @date 2016-12-07
  */
 import edu.princeton.cs.algs4.StdOut;
